@@ -379,15 +379,14 @@ Additional rules can include:
 
 # Screenshots
 
-Add screenshots for:
-
-* Complete Workflow
-* Scheduler
-* Router
-* Gmail Notifications
-* Google Sheets Logs
-* HubSpot Updates
-* Final Execution Results
+<img width="1243" height="558" alt="Revenue Leakage Detector 3" src="https://github.com/user-attachments/assets/786fb429-1636-4df0-8374-0bb6bc374446" />
+<img width="1243" height="562" alt="Revenue Leakage Detector 4" src="https://github.com/user-attachments/assets/bac6c913-89f0-4e4f-a154-5f21ddd81652" />
+<img width="1251" height="577" alt="Revenue Leakage Detector 5" src="https://github.com/user-attachments/assets/dc3d2f19-5fd1-4133-ab0e-2e42cf71e602" />
+<img width="1245" height="583" alt="Revenue Leakage Detector 6" src="https://github.com/user-attachments/assets/61439ea8-25b2-4a23-9010-e619757ab55c" />
+<img width="1241" height="572" alt="Revenue Leakage Detector 7" src="https://github.com/user-attachments/assets/d57bf2f9-85bb-4954-8086-8874f1401711" />
+<img width="1130" height="580" alt="Revenue Leakage Detector 8" src="https://github.com/user-attachments/assets/10fcb317-707b-422e-ab83-213d67c79219" />
+<img width="1246" height="586" alt="Revenue Leakage Detector 1" src="https://github.com/user-attachments/assets/6a5fa894-f0e5-413f-a1cd-d07a82cb7c90" />
+<img width="1232" height="568" alt="Revenue Leakage Detector 2" src="https://github.com/user-attachments/assets/07dbacf1-77b0-4d7d-8d0e-04e782c7b038" />
 
 ---
 
