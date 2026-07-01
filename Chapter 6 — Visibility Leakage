@@ -1,0 +1,203 @@
+Chapter 6 — Visibility Leakage
+
+Why Managers Discover Problems Too Late
+
+Revenue problems rarely appear overnight.
+
+They build quietly.
+
+A deal sits untouched for two weeks.
+
+A follow-up is missed.
+
+A high-value opportunity loses momentum.
+
+A customer stops engaging.
+
+Individually, these signals don't seem alarming.
+
+But by the time they appear in a weekly pipeline review or monthly forecast, the damage has already been done.
+
+This is Visibility Leakage.
+
+What is Visibility Leakage?
+
+Visibility Leakage occurs when critical revenue signals exist within the business but remain invisible to the people responsible for making decisions.
+
+The data is available.
+
+The insight isn't.
+
+As a result, managers react to problems instead of preventing them.
+
+Customer Activity
+        │
+Sales Activity
+        │
+CRM Updates
+        │
+───────────────
+Critical Signals
+───────────────
+        │
+        ▼
+No Visibility
+        │
+        ▼
+Delayed Decisions
+        │
+        ▼
+Revenue Impact
+
+The business doesn't fail because information is missing.
+
+It fails because the right information never reaches the right people at the right time.
+
+Why Visibility Leakage Happens
+1. Managers Depend on Reports
+
+Most sales reviews happen weekly or monthly.
+
+By then, opportunities may have been inactive for days or even weeks.
+
+Reports explain what happened.
+
+They rarely reveal what is about to happen.
+
+2. CRM Stores Data Instead of Insights
+
+Modern CRMs contain thousands of data points.
+
+But managers don't need more data.
+
+They need answers.
+
+Questions like:
+
+Which high-value deals are at risk?
+Which opportunities need immediate attention?
+Which reps require support?
+
+Most CRMs don't answer these questions automatically.
+
+3. Siloed Systems
+
+Marketing monitors campaigns.
+
+Sales monitors pipeline.
+
+Customer Success monitors renewals.
+
+Each team sees only part of the customer journey.
+
+Without a connected revenue system, nobody sees the complete picture.
+
+4. Lagging Metrics
+
+Organizations often track:
+
+Revenue closed
+Win rate
+Pipeline value
+Forecast accuracy
+
+These metrics describe the past.
+
+They don't help prevent future losses.
+
+Symptoms of Visibility Leakage
+
+You may have visibility leakage if:
+
+Managers discover stalled deals during review meetings.
+Revenue risks appear only after forecasts decline.
+High-value opportunities receive attention too late.
+Teams spend more time gathering updates than making decisions.
+Leadership relies on spreadsheets instead of real-time insights.
+
+When visibility is poor, decisions become reactive.
+
+Traditional CRM Limitation
+
+A CRM answers:
+
+What does the pipeline look like?
+
+Revenue leaders need a different answer:
+
+What needs my attention today?
+
+There's a big difference.
+
+A dashboard may show 500 open deals.
+
+An intelligent revenue system highlights the 12 that are most likely to impact next month's revenue.
+
+Visibility isn't about seeing everything.
+
+It's about seeing what matters.
+
+How AI Can Reduce Visibility Leakage
+
+Instead of waiting for managers to identify problems manually, AI can continuously monitor pipeline health and surface the most critical risks.
+
+Examples include:
+
+Detecting inactive high-value opportunities
+Highlighting unusual pipeline behavior
+Monitoring activity across teams
+Identifying declining customer engagement
+Prioritizing opportunities based on risk
+Generating daily revenue health summaries
+
+Rather than displaying data, AI provides actionable insights.
+
+Visibility Monitoring Workflow (Concept)
+Daily Revenue Audit
+        │
+        ▼
+Collect CRM Data
+        │
+        ▼
+Analyze Pipeline Health
+        │
+        ▼
+Identify Risk Signals
+        │
+        ▼
+Prioritize Critical Opportunities
+        │
+        ▼
+Generate AI Recommendations
+        │
+        ▼
+Notify Managers
+        │
+        ▼
+Update Revenue Dashboard
+Real-World Example
+
+A sales manager reviews the pipeline every Friday.
+
+Everything appears healthy.
+
+Three days later, a major opportunity is marked as Closed Lost.
+
+Looking back, the warning signs were already there:
+
+No customer activity for 18 days.
+Close date changed four times.
+No next meeting scheduled.
+No executive engagement.
+
+The information existed.
+
+No one saw it soon enough.
+
+That's visibility leakage.
+
+Revenue Systems Insight
+
+Revenue leaders don't need more dashboards.
+
+They need systems that surface the right risks before they become missed revenue.
